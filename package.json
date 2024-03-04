@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "raw-socket": "git+https://github.com/devDomotz/node-raw-socket.git"
+    "raw-socket": "git+https://github.com/domotz/node-raw-socket.git"
   },
   "contributors": [
     {
